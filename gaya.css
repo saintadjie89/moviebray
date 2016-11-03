@@ -229,7 +229,6 @@ input[type="text"].dream-search:focus {
 }
 
 .article-card {
-  min-height:600px;
 
   border: 1px solid #d7d7d7;
 
